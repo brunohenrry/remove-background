@@ -1,7 +1,3 @@
-Claro! Aqui está o README atualizado sem a seção de contribuição:
-
----
-
 # Remove Background with Gradio and Hugging Face
 
 Este projeto utiliza Gradio para criar uma interface de usuário que remove o fundo de imagens utilizando o modelo de segmentação de imagem RMBG-1.4 da Hugging Face.
